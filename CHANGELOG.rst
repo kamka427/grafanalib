@@ -2,9 +2,11 @@
 Changelog
 =========
 
-0.7.1 (2022-11-14)
+
+0.7.1 (2022-12-02)
 ===========
 
+* Extended SqlTarget to support parsing queries from files
 * Added Bar_Chart_ panel support
 
 .. _Bar_Chart: basehttps://grafana.com/docs/grafana/latest/panels-visualizations/visualizations/bar-chart/
